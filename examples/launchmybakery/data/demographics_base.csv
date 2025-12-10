@@ -1,0 +1,306 @@
+zip_code,median_income,neighborhood
+90001,60751,South Central Los Angeles
+90002,56158,Watts
+90003,54781,South Los Angeles
+90004,62655,Koreatown
+90005,52755,Koreatown
+90006,49847,Koreatown
+90007,36032,University Park
+90008,61822,Baldwin Hills
+90010,100901,Koreatown
+90011,53781,South Los Angeles
+90012,67635,Chinatown
+90013,32848,Downtown Los Angeles
+90014,33822,Downtown Los Angeles
+90015,63211,South Park
+90016,71067,West Adams
+90017,51317,Downtown
+90018,63671,Jefferson Park
+90019,71395,Mid Wilshire
+90020,55832,Koreatown
+90021,32250,Central City
+90022,67829,East Los Angeles
+90023,56623,Boyle Heights
+90024,79994,Westwood
+90025,104627,West Los Angeles
+90026,85835,Echo Park
+90027,90532,Los Feliz
+90028,59393,Hollywood
+90029,60793,Hollywood
+90031,62119,Lincoln Heights
+90032,81563,El Sereno
+90033,56001,Boyle Heights
+90034,103082,Palms
+90035,108224,Pico-Robertson
+90036,102877,Mid-Wilshire
+90037,56417,South Los Angeles
+90038,61566,Hollywood
+90039,105578,Atwater Village
+90040,70909,Commerce
+90041,111834,Eagle Rock
+90042,94401,Highland Park
+90043,65496,Hyde Park
+90044,51433,Vermont Knolls
+90045,132577,Westchester
+90046,94259,Hollywood Hills
+90047,70187,Los Angeles
+90048,104227,Mid-Wilshire
+90049,169898,Brentwood
+90052,,Downtown
+90056,127252,Ladera Heights
+90057,44876,Westlake
+90058,36680,"Vernon, CA"
+90059,53840,Watts
+90061,60114,Green Meadows
+90062,63652,Exposition Park
+90063,71725,Boyle Heights
+90064,129703,Cheviot Hills
+90065,92903,Glassell Park
+90066,107786,Mar Vista
+90067,135328,Century City
+90068,101720,Hollywood Hills
+90069,110705,West Hollywood
+90071,,Downtown
+90073,,Bel Air
+90077,220464,Bel Air
+90079,,Downtown
+90089,,University Park
+90094,159904,Playa Vista
+90095,,Westwood
+90201,56824,Bell Gardens
+90210,190382,Beverly Hills
+90211,118125,Beverly Hills
+90212,116238,Beverly Hills
+90220,77535,Compton
+90221,68191,Compton
+90222,76467,Compton
+90230,106827,Culver City
+90232,125490,Culver City
+90240,108860,Downey
+90241,84375,Downey
+90242,83238,Downey
+90245,149149,El Segundo
+90247,73851,Gardena
+90248,81777,Gardena
+90249,84921,Gardena
+90250,74923,Hawthorne
+90254,152019,Hermosa Beach
+90255,61376,Huntington Park
+90260,86736,Lawndale
+90262,70507,Lynwood
+90263,,Malibu
+90265,191080,Malibu
+90266,193904,Manhattan Beach
+90270,61753,Maywood
+90272,200985,Pacific Palisades
+90274,222273,Palos Verdes Estates
+90275,175212,Rancho Palos Verdes
+90277,131985,Redondo Beach
+90278,148581,Redondo Beach
+90280,71379,South Gate
+90290,142148,Topanga
+90291,119043,Venice
+90292,136964,Marina del Rey
+90293,130699,Playa del Rey
+90301,62991,Inglewood
+90302,72461,Inglewood
+90303,70853,Inglewood
+90304,63317,Inglewood
+90305,89030,Inglewood
+90401,106704,Downtown Santa Monica
+90402,182688,Santa Monica
+90403,121512,Santa Monica
+90404,85081,Santa Monica
+90405,114489,Santa Monica
+90501,92815,Torrance
+90502,98867,Harbor Gateway
+90503,119685,Torrance
+90504,105474,Torrance
+90505,110690,Torrance
+90506,,Torrance
+90601,102267,Whittier
+90602,67259,Whittier
+90603,121222,Whittier
+90604,101104,Whittier
+90605,100825,Whittier
+90606,94904,Whittier
+90621,94679,Buena Park
+90623,112366,La Palma
+90630,124360,Cypress
+90631,102208,La Habra
+90638,110606,La Mirada
+90639,,La Mirada
+90640,74833,Montebello
+90650,98709,Norwalk
+90660,86956,Pico Rivera
+90670,87830,Santa Fe Springs
+90701,97712,Artesia
+90703,133300,Cerritos
+90704,91644,Avalon
+90706,77602,Bellflower
+90710,77486,Harbor City
+90712,119246,Lakewood
+90713,129397,Lakewood
+90715,94796,Lakewood
+90716,76235,Hawaiian Gardens
+90717,92984,Lomita
+90723,70912,Paramount
+90731,71936,San Pedro
+90732,118658,San Pedro
+90740,82427,Seal Beach
+90744,61440,Wilmington
+90745,106457,Carson
+90746,113545,Carson
+90747,,Carson
+90755,102684,Signal Hill
+90802,72152,Long Beach
+90803,111500,Belmont Shore
+90804,68940,Long Beach
+90805,68615,North Long Beach
+90806,73674,Long Beach
+90807,95079,Long Beach
+90808,131959,Long Beach
+90810,82222,Long Beach
+90813,50302,Long Beach
+90814,98070,Long Beach
+90815,116567,Long Beach
+90822,,Long Beach
+90831,,Long Beach
+90840,,Long Beach
+91001,133840,Altadena
+91006,127511,Arcadia
+91007,101762,Arcadia
+91008,137500,Bradbury
+91010,98189,"Duarte, CA"
+91011,221451,La Cañada Flintridge
+91016,99555,Monrovia
+91020,60899,Montrose
+91024,141094,Sierra Madre
+91030,128105,South Pasadena
+91040,104719,Shadow Hills
+91042,81707,Tujunga
+91046,,Verdugo City
+91101,94180,Pasadena
+91103,84683,North Central
+91104,103052,Pasadena
+91105,156835,Pasadena
+91106,89213,Pasadena
+91107,124880,Pasadena
+91108,186023,San Marino
+91125,,Pasadena
+91201,74980,Glendale
+91202,92343,Glendale
+91203,77925,Glendale
+91204,72906,Glendale
+91205,59005,Glendale
+91206,86684,Glendale
+91207,108196,Glendale
+91208,131229,Glendale
+91210,102721,Glendale
+91214,131716,La Crescenta
+91301,166912,Agoura Hills
+91302,167470,Calabasas
+91303,76051,Canoga Park
+91304,82289,Canoga Park
+91306,88958,Winnetka
+91307,136154,West Hills
+91311,117574,Chatsworth
+91316,90802,Encino
+91321,93281,Newhall
+91324,99834,Northridge
+91325,92602,Northridge
+91326,148636,Porter Ranch
+91330,,Northridge
+91331,82025,Pacoima
+91335,77164,Reseda
+91340,79124,San Fernando
+91342,95480,Sylmar
+91343,81719,North Hills
+91344,116647,Granada Hills
+91345,96345,Mission Hills
+91350,135612,"Saugus, Santa Clarita"
+91351,112888,"Canyon Country, Santa Clarita"
+91352,74621,Sun Valley
+91354,148818,Valencia
+91355,109348,Valencia
+91356,110094,Tarzana
+91361,131911,Westlake Village
+91362,143683,Thousand Oaks
+91364,134534,Woodland Hills
+91367,109629,Woodland Hills
+91371,,Woodland Hills
+91381,146706,Stevenson Ranch
+91384,129603,Castaic
+91387,114378,Canyon Country
+91390,143963,Santa Clarita
+91401,75933,Van Nuys
+91402,56369,Panorama City
+91403,114348,Sherman Oaks
+91405,61207,Van Nuys
+91406,76653,Van Nuys
+91411,77582,Van Nuys
+91423,112119,Sherman Oaks
+91436,174803,Encino
+91501,85419,Burbank
+91502,61443,Burbank
+91504,103164,Burbank
+91505,106364,Burbank
+91506,107171,Burbank
+91601,77540,North Hollywood
+91602,97994,North Hollywood
+91604,141317,Studio City
+91605,64539,North Hollywood
+91606,66884,North Hollywood
+91607,84925,Valley Village
+91608,,Universal City
+91702,87577,Azusa
+91706,79473,Baldwin Park
+91709,122784,Chino Hills
+91711,121970,Claremont
+91722,98033,Covina
+91723,87363,Covina
+91724,102129,Covina
+91731,60887,El Monte
+91732,67172,El Monte
+91733,67245,South El Monte
+91740,98819,Glendora
+91741,127063,Glendora
+91744,92624,La Puente
+91745,106611,Hacienda Heights
+91746,84967,La Puente
+91748,83455,Rowland Heights
+91750,104827,La Verne
+91754,81890,Monterey Park
+91755,74362,Monterey Park
+91759,118750,Mt Baldy
+91765,104737,Diamond Bar
+91766,77699,Pomona
+91767,80201,Pomona
+91768,76313,Pomona
+91770,73757,Rosemead
+91773,105926,San Dimas
+91775,113703,San Gabriel
+91776,79926,San Gabriel
+91780,101746,Temple City
+91789,125742,Walnut
+91790,100142,West Covina
+91791,100365,West Covina
+91792,96383,West Covina
+91801,85549,Alhambra
+91803,84537,Alhambra
+92397,86370,Wrightwood
+93243,34737,Lebec
+93510,118462,Acton
+93532,99432,Lake Hughes
+93534,58891,Lancaster
+93535,65989,Lancaster
+93536,102927,Lancaster
+93543,69375,Littlerock
+93544,87069,Llano
+93550,63811,Palmdale
+93551,110850,Palmdale
+93552,84894,Palmdale
+93553,73029,Pearblossom
+93560,76204,Rosamond
+93563,,Valyermo
+93591,60903,Palmdale
