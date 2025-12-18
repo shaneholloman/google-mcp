@@ -19,7 +19,8 @@ You can run these open-source MCP servers locally, or deploy them to Google Clou
 
 * [**Google Workspace**](https://github.com/gemini-cli-extensions/workspace), including Google Docs, Sheets, Slides, Calendar, and Gmail. (Gemini CLI extension)  
 * [**Firebase**](https://github.com/gemini-cli-extensions/firebase/) (Gemini CLI extension)  
-* [**Cloud Run**](https://github.com/GoogleCloudPlatform/cloud-run-mcp) (Gemini CLI Extension)  
+* [**Cloud Run**](https://github.com/GoogleCloudPlatform/cloud-run-mcp) (Gemini CLI Extension)
+* [**Go**](https://go.dev/gopls/features/mcp) 
 * [**Google Analytics**](https://github.com/googleanalytics/google-analytics-mcp)  
 * [**MCP Toolbox for Databases**](https://github.com/googleapis/genai-toolbox), including BigQuery, Cloud SQL, AlloyDB, Spanner, Firestore, and more.  
 * [**Google Cloud Storage**](https://github.com/googleapis/gcloud-mcp/tree/main/packages/storage-mcp)  
