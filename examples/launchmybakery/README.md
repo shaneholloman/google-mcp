@@ -113,7 +113,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 
 # Install ADK
-pip install google-adk
+pip install google-adk==1.28.0
 
 # Navigate to the app directory
 cd adk_agent/
